@@ -2,7 +2,7 @@
 
 
 
-### Note: For windows use git bash or any linux based terminal or pycharm code editor because in this program ascii color code  is use it not work in windows terminal else try in google  Colaboratory
+### Note: Because ascii color code is used in this program, it will not work in the Windows terminal. Instead, use git bash or any linux-based terminal or PyCharm code editor for Windows; otherwise, try Google Colaboratory.
 
 
 ## Features
@@ -37,7 +37,7 @@ $ python main.py
 
 ### Add contact
     
-   -> You can add contact it get two input name and phone number
+   -> You can add contacts; it gets two inputs: name and phone number.
 
    ![2](/image/add-contact.png)
 
@@ -45,9 +45,9 @@ $ python main.py
 
 ### Search contact
     
-   -> In search contact can search by using name or phone number
-   -> It not required to search same charter or case sensitive 
-   -> It highlights the words match in search result
+   -> In contact search, contacts can search by name or phone number. 
+   -> It is not necessary to search the same charter or the same case.
+   -> It highlights the words matching in the search result.
 
    ![3](/image/search.png)
 
@@ -55,8 +55,8 @@ $ python main.py
 
 ### Delete contact 
 
-   -> In delete contact just enter the name to delete
-   -> Else can enter number it display the related contact with that number and that result can find name and delete
+   -> In "Delete Contact," just enter the name to delete.
+   -> Else can enter number it display the related contact with that number and that result can find name and delete.
 
 
    ![4](/image/delete.png)
@@ -65,7 +65,7 @@ $ python main.py
 
 ### Edit contact
 
-   -> You can edit both name and number of the saved contact
+   -> You can edit the name and number of the saved contact.
     
 
    ![5](/image/edit.png)
@@ -73,4 +73,4 @@ $ python main.py
 
 
 
-### We can also  directly search contact in select contact place
+### We can also directly search contacts in select contact places.
