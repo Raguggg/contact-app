@@ -20,7 +20,7 @@
     - git bash terminal or Pycharm code editor for windows
 
 ## INSTALLATION
-    ```sh
+```sh
 $ git clone https://github.com/Raguggg/contact-app.git
 $ cd contact-app
 $ pip install -r requirements.txt
