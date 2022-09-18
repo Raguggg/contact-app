@@ -21,7 +21,7 @@
 
 ## INSTALLATION
     ```sh
-$ git clone https://github.com/Raguggg/contact-app
+$ git clone https://github.com/Raguggg/contact-app.git
 $ cd contact-app
 $ pip install -r requirements.txt
 $ python main.py
