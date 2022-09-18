@@ -2,7 +2,7 @@
 
 
 
-### Note: for windows use git bash or any linux based terminal or pycharm code editor because in this color code ascii is use it not work in windows terminal else try in google  Colaboratory
+### Note: For windows use git bash or any linux based terminal or pycharm code editor because in this program ascii color code  is use it not work in windows terminal else try in google  Colaboratory
 
 
 ## Features
